@@ -13,17 +13,17 @@ Here we were supposed to include a map component to display geographic locations
 ## User-Friendly Experience:
 
 Ensure smooth navigation and intuitive interaction with profiles and maps.
-## Extended Features:
-### Profile Data Management:
+
+## Profile Data Management:
 
 Admin panel/dashboard for adding, editing, and deleting profiles.
-### Search and Filter:
+## Search and Filter:
 
 Enable users to search or filter profiles by name, location, or other criteria.
-### Responsive Design:
+## Responsive Design:
 
 Make the application mobile-friendly and accessible across devices.
 
-### Profile Details View:
+## Profile Details View:
 
 Provide a detailed view of each profile with additional information like contact details and interests.
