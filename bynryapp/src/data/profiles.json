@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Priyanka Chaudhari",
+      "photo": "link_to_image",
+      "description": "Software Engineer",
+      "address": "Mumbai",
+      "contact": "priyanka.chaudhari@example.com",
+      
+    },
+    {
+      "id": 2,
+      "name": "Kajal Chaurasiya",
+      "photo": "link_to_image",
+      "description": "Data Scientist",
+      "address": "Pune",
+      "contact": "kajal.chaurasiya@example.com",
+      
+    }
+  ]
+  
